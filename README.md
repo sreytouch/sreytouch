@@ -5,7 +5,7 @@
 
 - Fun fact I love to make Websites and code React Apps
 - I’m experienced with **ReactJS** Web Apps and **React Native** android/iOS App Development
-- Currently working on Full stack projects using MERN -  **MongoDB** **Express** **ReactJs** and **NodeJs**
+- Currently working on Full stack projects using MERN -  **ReactJs** **ReactNative**  and **NodeJs**
 - All of my projects are available at my portfolio website: **[DevFolio][website]**
 
 <br>
