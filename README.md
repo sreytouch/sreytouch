@@ -8,7 +8,7 @@
 ### <h2 align="center">Contact Me</h2>
 <p align="center">   
   	<a href="mailto:atouch.it@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=DB4437"></a>
-    	<a href="https://www.linkedin.com/in/sreytouchlang/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077b5"></a> 
+    	<a href="https://www.linkedin.com/in/sreytouch-lang/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077b5"></a> 
   	<a href="https://www.instagram.com/sreytouch/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=C13584"></a>
 	<a href="https://twitter.com/sreytouch" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=Twitter&logoColor=1DA1F2"></a>
 </p>
@@ -35,7 +35,7 @@
 
 
 <p align="center">
-<a href="https://github.com/sreytouch">
+<a href="https://github.com/sreytouchlang">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sreytouch&show_icons=true&locale=en&theme=algolia"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreytouch&show_icons=true&locale=en&layout=compact&theme=algolia"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sreytouch&theme=algolia" alt="sreytouch" />
