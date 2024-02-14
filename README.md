@@ -1,12 +1,7 @@
 # sreytouch-lang
 ### <h1 align="center">Hi, I'm **Sreytouch Lang(Jessica)** </h1>
 
-### <h3 align="center">A Software Engineer , Web Developer and Programmer!! **[DevFolio][website]**</h3><br>
-
-- Fun fact I love to make Websites and code React Apps
-- I’m experienced with **ReactJS** Web Apps and **React Native** android/iOS App Development
-- Currently working on Full stack projects using MERN -  **ReactJs** **ReactNative**  and **NodeJs**
-- All of my projects are available at my portfolio website: **[DevFolio][website]**
+### <h3 align="center">A Software Engineer **[DevFolio][website]**</h3><br>
 
 <br>
 
